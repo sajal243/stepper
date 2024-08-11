@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/stepper/static/css/main.14b73d3d.css",
-    "main.js": "/stepper/static/js/main.d0352b5d.js",
+    "main.js": "/stepper/static/js/main.8bec24c8.js",
     "index.html": "/stepper/index.html",
     "main.14b73d3d.css.map": "/stepper/static/css/main.14b73d3d.css.map",
-    "main.d0352b5d.js.map": "/stepper/static/js/main.d0352b5d.js.map"
+    "main.8bec24c8.js.map": "/stepper/static/js/main.8bec24c8.js.map"
   },
   "entrypoints": [
     "static/css/main.14b73d3d.css",
-    "static/js/main.d0352b5d.js"
+    "static/js/main.8bec24c8.js"
   ]
 }
