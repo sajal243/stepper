@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.stepper{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: 50px 0;
+  position: relative;
+}
+
+.step_div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.step{
+  background-color: rgb(182, 175, 175);
+  color: black;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  padding: 5px;
+  font-weight: 600;
+  margin: 10px;
+  align-items: center;
+  text-align: center;
+  z-index: 2;
+  position: relative;
+}
+
+.active{
+  background-color: blue;
+  color: white;
+}
+
+.complete{
+  background-color: green;
+}
+
+.progress{
+  position: absolute;
+  height: 5px;
+  /* width: 100%; */
+  background-color: lightgray;
+  border-radius: 5px;
+  top: 30%;
+  left: 30px;
+}
+
+.progress_bar{
+  height: 100%;
+  background-color: green;
+  transition: width 0.5s ease;
+}
