@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stepper/static/css/main.14b73d3d.css",
+    "main.js": "/stepper/static/js/main.d0352b5d.js",
+    "index.html": "/stepper/index.html",
+    "main.14b73d3d.css.map": "/stepper/static/css/main.14b73d3d.css.map",
+    "main.d0352b5d.js.map": "/stepper/static/js/main.d0352b5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b73d3d.css",
+    "static/js/main.d0352b5d.js"
+  ]
+}
