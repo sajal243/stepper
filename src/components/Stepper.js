@@ -63,7 +63,7 @@ const Stepper = () => {
        
     </div>
     <ActiveComponent/>
-    {!isCompleted && <button onClick={handleNext}>Next</button>}
+    {!isCompleted && <button onClick={handleNext}> {currStep === steps.length ? "Finish" : "Next"}</button>}
     </div>
   )
 }
